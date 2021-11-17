@@ -1,3 +1,6 @@
 # svh073.github.io
 Mijn website
-<h1>Luuk</h1>
+<head>
+  <h1>Luuk</h1>
+
+</head>
