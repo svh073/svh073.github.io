@@ -1,34 +1,7 @@
 # svh073.github.io
 <!DOCTYPE html>
 <head> 
-<link href="/assets/normalize.css" rel="stylesheet">
-<style>
-header {
-  text-align: center;
-  background: url("/assets/jeff-bg.png");
-  background-size: cover;
-  color: white;
-}
-a {
-  color: white;
-}
-h1 {
-  font-size: 70px;
-}
-img {
-  margin: 40px 0px 0px 0px;
-  border: 7px solid white;
-  border-radius: 20px;
-}
-ul {
-  padding: 10px;
-  background: black;
-}
-li {
-  display: inline;
-  padding: 0px 10px 0px 10px;
-}
-</style>
+
 </head>
 <body>
   <header>
