@@ -4,6 +4,9 @@
 
 </head>
 <body>
+  {
+  background url ("https://images.app.goo.gl/km5RQf1WPcoGGPN86");
+  }
   <header>
     <img src="/assets/jeff.png">
     <h1>Jeff's Blog</h1>
