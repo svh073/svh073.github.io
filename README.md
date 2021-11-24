@@ -5,7 +5,7 @@
 </head>
 <body>
   {
-  background url ("https://images.app.goo.gl/km5RQf1WPcoGGPN86");
+  background url ("gaming setup.png");
   }
   <header>
     <img src="/assets/jeff.png">
