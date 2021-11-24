@@ -1,5 +1,7 @@
 # svh073.github.io
 <head> 
+  euhh... dit is geen stylesheet ;-) 
+  
 </head>
 <body>
   {
