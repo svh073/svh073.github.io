@@ -1,10 +1,11 @@
 # svh073.github.io
 <head> 
-  euhh... dit is geen stylesheet ;-) 
-  
+ <style>
+ {
+  background url ("gaming setup.png");
+  }  
+  </style>
 </head>
 <body>
-  {
-  background url ("gaming setup.png");
-  }
+ 
 </body>
