@@ -2,7 +2,7 @@
 <head> 
  <style>
  {
-  background url ("gaming setup.png");
+  background: url ("gaming setup.png");
   }  
   </style>
 </head>
