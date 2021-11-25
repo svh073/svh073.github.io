@@ -1,10 +1,10 @@
 # svh073.github.io
 <!DOCTYPE html>
 <head> 
-  <link rel="stylesheet" href="gamingsetup.png">
+  <link rel="stylesheet" href="Gaming.png">
  <style>
  {
-  background: url ("gamingsetup.png");
+  background: url ("Gaming.png");
   }  
   </style>
 </head>
