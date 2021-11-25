@@ -1,7 +1,7 @@
 # svh073.github.io
 <!DOCTYPE html>
 <head> 
-  <link href="stylesheet" rel="Gaming.png">
+  <link href="Gaming.png" rel="stylesheet">
  <style>
  {
   background: url ("Gaming.png");
