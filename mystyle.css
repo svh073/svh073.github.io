@@ -1,10 +1,6 @@
-body {
-  image: url("gaming.jpg");
-image-size: 10%;  
+body { 
+  background: black;
 }
-ul {
-   background: black;
-   }
 h1 {
   color: navy;
   margin-left: 20px;
